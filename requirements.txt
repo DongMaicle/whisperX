@@ -4,4 +4,3 @@ ffmpeg-python==0.2.0
 jedi>=0.16
 pandas
 nltk
-rich==13.3.4
